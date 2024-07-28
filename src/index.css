@@ -133,7 +133,6 @@ body {
 .animated-green,
 .animated-red,
 .green-color {
-  /* -webkit-background-clip: text; */
   color: transparent;
 }
 
